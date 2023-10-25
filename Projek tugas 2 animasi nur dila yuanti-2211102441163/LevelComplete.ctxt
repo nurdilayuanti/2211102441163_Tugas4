@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LevelComplete
+comment1.params=level
+comment1.target=LevelComplete(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkCharacterCollision()
+numComments=4
